@@ -12,7 +12,7 @@ Aqui deixei o jogo já rodando com a Inteligência Artificial
 </h2>
 
 <div align='center'>
-<img src='https://github.com/Rodrigo-L-Oliveira/IA_Flappy_Bird/assets/99633470/8b4c5c3b-68e4-40ef-b0e0-4df968442c2e' width="300"/>
+<img src='https://github.com/Rodrigo-L-Oliveira/IA_Flappy_Bird/assets/99633470/27d1d45a-c2c6-427a-9567-94472c980e1a' width="300"/>
 </div>
 
 <br>
